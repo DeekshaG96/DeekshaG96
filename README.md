@@ -31,7 +31,7 @@
       <li>🧑‍🎓 <b>Occupation:</b> 6th-sem Engineering Student at SIT</li>
       <li>🌱 <b>Learning:</b> Deep Learning & Cloud Architecture</li>
       <li>💬 <b>Interests:</b> Data Science, ML, Cybersecurity Operations, Gen AI</li>
-      <li>📫 <b>Contact:</b> <a href="mailto:dg575265@gmail.com">dg575265@gmail.com</a></li>
+     
     </ul>
   </div>
   
