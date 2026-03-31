@@ -72,7 +72,7 @@
 <br/>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeekshaG96&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="DeekshaG96 Top Languages" />
+ 
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeekshaG96&theme=tokyonight" alt="DeekshaG96 Streak" />
 </div>
