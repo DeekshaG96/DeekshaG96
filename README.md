@@ -1,76 +1,99 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=250&section=header&text=Deeksha%20G&fontSize=80&fontColor=ffffff&desc=AI%20%26%20Cybersecurity%20Professional&descSize=25&descColor=ffffff"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3IzN2FvODdnbWozZDZkb2QwdzMxbndxdTBlaGNrcHhnZWUyaXk1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Neural Terminal Glitch Header" />
 </div>
-
-<h1 align="center">Hi there 👋, I'm Deeksha</h1>
-<h3 align="center">Passionate about AI, Cloud Security, and Data Science.</h3>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeekshaG96&label=Profile%20Views&color=00f2fe&style=flat-square" alt="DeekshaG96" />
-</div>
-
-<br/>
-
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/49a7a9144402633.628dc5a0eeba4.gif">
-
-<p align="left">
-  <ul>
-    <li>🧑‍🎓 <strong>Occupation:</strong> CSBS Engineering Student</li>
-    <li>🌱 <strong>Currently learning:</strong> Advanced <b>Deep Learning</b> and <b>Network Security Operations</b></li>
-    <li>💼 <strong>Projects:</strong> AI Sustainable Agriculture, Smart Supply Chains (GLEC-compliant)</li>
-    <li>💬 <strong>Talk to me about:</strong> Data Science, Machine Learning, Web Development, and GCP</li>
-    <li>📫 <strong>Reach me at:</strong> <a href="mailto:dg575265@gmail.com">dg575265@gmail.com</a></li>
-    <li>🏆 <strong>Achievements:</strong> Earned over <b>18 Google Cloud Skill Badges</b></li>
-  </ul>
-</p>
-
-<h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deeksha-g-cybersec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Deeksha G LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/DeekshaG96" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Deeksha G GitHub" height="30" width="40" /></a>
-</p>
-
-<br clear="both">
-
----
-
-<h3 align="left">💻 Technologies & Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/> </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="50" height="50"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeekshaG96&show_icons=true&theme=nord&hide_border=true&title_color=00f2fe" alt="Deeksha's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeekshaG96&theme=nord&hide_border=true&ring=00f2fe&fire=00f2fe" alt="Deeksha's GitHub Streak" width="48%" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeekshaG96&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true&title_color=00f2fe" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=DeekshaG96&theme=nord&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophy" width="48%" />
-</p>
-
-<details>	
- <summary><b>🏅 Honorable Badges & Certifications</b></summary><br>
-<div style='display:flex; flex-wrap: wrap; justify-content: center; gap: 15px;' align='center'>
-  <a href="https://www.credly.com/"><img src="https://images.credly.com/size/110x110/images/2784cb61-f120-4581-807d-9594ec4425dd/image.png" width="100px" height="100px" alt="AWS Certified"/></a>
-  <a href="#"><img src="https://images.credly.com/size/110x110/images/6df1bc1e-b78f-4ed4-b258-0051b80d0d86/google-cloud-certified-associate-cloud-engineer.png" width="100px" height="100px" alt="GCP Badge"/></a>
-  <a href="#"><img src="https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/CompTIA_Security_2Bce.png" width="100px" height="100px" alt="Security+ Badge"/></a>
-</div>
-</details>
 
 <br />
 
+# `whoami`
+
+```sh
+$ user="Deeksha G"
+$ current_location="SIT (6th Semester)"
+$ expertise=["Machine Learning", "Cybersecurity", "Zero-Knowledge Personalization"]
+$ os="Kali Linux"
+$ tagline="Security-Conscious AI Innovator"
+```
+
+Welcome to my digital workspace. I build AI that thinks deeply and architectures that defend fiercely. 
+Combining the innovation of Machine Learning with the strict vigilance of Cybersecurity.
+
 <div align="center">
-  <h3>Thanks for visiting! 😊 Let's build something secure and intelligent together.</h3>
+  <img src="https://komarev.com/ghpvc/?username=DeekshaG96&label=Profile%20views&color=00FFFF&style=flat-square" alt="DeekshaG96 Views" />
+</div>
+
+<br />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br />
+
+### 🛠️ My Digital Toolkit
+
+| AI & Machine Learning | Cybersecurity & Tools | Development |
+| :--- | :--- | :--- |
+| ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
+| ![Scikit-Learn](https://img.shields.io/badge/SciKit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+
+<br />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br />
+
+### 📂 Secure Intelligence Showcases
+
+#### 🌍 Eco-Track AI: Sustainable Intelligence
+> Focusing on AI analyzing highly-complex environmental data arrays in real-time.
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/32049e32047539.566f122fc3efd.gif" alt="Eco Track AI Data Stream" width="100%" /> 
+    </td>
+    <td width="50%">
+      <b>Tech Stack:</b> React, Gemini API<br />
+      <b>Core Mechanic:</b> Split-screen real-time analytical inference comparing user inputs directly to historical ecological baseline metrics.<br />
+      <b>Aesthetic Focus:</b> Clean, Light-Theme contrast handling raw data.
+    </td>
+  </tr>
+</table>
+
+#### 🔐 Soul Journal: Zero-Knowledge Personalization
+> The intersection of AI empathy and uncompromising local-first data security.
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://cdn.dribbble.com/users/3281732/screenshots/7012328/media/6b010ced7f0e3fcbd863385cedae9c5a.gif" alt="Soul Journal Biometric Unlock" width="100%" /> 
+    </td>
+    <td width="50%">
+      <b>Tech Stack:</b> Flutter, Firebase, Gemini Pro<br />
+      <b>Security Focus:</b> AES-256 local database encryption.<br />
+      <b>Core Mechanic:</b> Requires active Face ID/glitch-effect biometric scanning before unlocking personal AI analytics.<br />
+      <b>Aesthetic Focus:</b> Immersive Dark Mode, Cyber-noir lock mechanics.
+    </td>
+  </tr>
+</table>
+
+<br />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br />
+
+### 📊 Deep-Level Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeekshaG96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Deeksha's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeekshaG96&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeekshaG96&theme=tokyo-night&bg_color=1a1b26&color=41a6b5&line=7aa2f7&point=f7768e&area=true&hide_border=true" width="97%" alt="Activity Graph" />
+</p>
+
+<br />
+
+### 📡 Initiate Handshake
+<div align="center">
+  <a href="https://linkedin.com/in/deeksha-g-cybersec">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dg575265@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
