@@ -39,7 +39,7 @@
  <summary><b>Google Cloud Certifications & Badges ☁️</b></summary><br>
  <p>Earned <b>18+ Google Cloud Skill Badges</b> across data engineering and generative AI platforms.</p>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://images.credly.com/size/110x110/images/6df1bc1e-b78f-4ed4-b258-0051b80d0d86/google-cloud-certified-associate-cloud-engineer.png" width="100px" height="100px" />
+
 </div>
 </details>
 
