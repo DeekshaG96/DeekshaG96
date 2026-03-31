@@ -1,4 +1,4 @@
-![MasterHead](https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=2070)
+![MasterHead](https://th.bing.com/th/id/OIP.See3xMiSvOOqcVBSvdgajgHaE7?w=259&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3)
 
 <h1 align="center">Hi there 👋, I'm Deeksha G.</h1>
 <h3 align="center">Passionate about AI, ML, and Cybersecurity.</h3>
