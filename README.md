@@ -32,7 +32,7 @@
       <li>🌱 <b>Learning:</b> Deep Learning & Cloud Architecture</li>
       <li>💬 <b>Interests:</b> Data Science, ML, Cybersecurity Operations, Gen AI</li>
      
-    </ul>
+  </ul>
   </div>
   
   <div style="flex: 1; text-align: right;">
