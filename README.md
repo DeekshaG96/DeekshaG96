@@ -1,46 +1,76 @@
-# Hi there 👋, I'm Deeksha G!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=250&section=header&text=Deeksha%20G&fontSize=80&fontColor=ffffff&desc=AI%20%26%20Cybersecurity%20Professional&descSize=25&descColor=ffffff"/>
+</div>
 
-### 💻 Computer Science Student | AI & Cybersecurity Developer
+<h1 align="center">Hi there 👋, I'm Deeksha</h1>
+<h3 align="center">Passionate about AI, Cloud Security, and Data Science.</h3>
 
-I am a third-year Computer Science and Business Systems engineering student at Srinivas Institute of Technology. I specialize in building scalable, secure, and intelligent solutions, bridging the gap between complex technology and real-world impact.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DeekshaG96&label=Profile%20Views&color=00f2fe&style=flat-square" alt="DeekshaG96" />
+</div>
 
-<br />
+<br/>
 
-### 🚀 About Me:
-- 🔭 I’m currently working on **AI-driven sustainable agriculture** and **Smart Supply Chains**.
-- 🌱 I’m constantly learning about **Machine Learning Algorithms**, **Network Security**, and **Serverless Infrastructure**.
-- 💬 Ask me about **Python, Data Science, GCP, AWS, and SIEM Operations**.
-- 📫 How to reach me: **[dg575265@gmail.com](mailto:dg575265@gmail.com)**
-- ⚡ Fun fact: I have earned over **18 Google Cloud Skill Badges**!
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/49a7a9144402633.628dc5a0eeba4.gif">
 
-<br />
+<p align="left">
+  <ul>
+    <li>🧑‍🎓 <strong>Occupation:</strong> CSBS Engineering Student</li>
+    <li>🌱 <strong>Currently learning:</strong> Advanced <b>Deep Learning</b> and <b>Network Security Operations</b></li>
+    <li>💼 <strong>Projects:</strong> AI Sustainable Agriculture, Smart Supply Chains (GLEC-compliant)</li>
+    <li>💬 <strong>Talk to me about:</strong> Data Science, Machine Learning, Web Development, and GCP</li>
+    <li>📫 <strong>Reach me at:</strong> <a href="mailto:dg575265@gmail.com">dg575265@gmail.com</a></li>
+    <li>🏆 <strong>Achievements:</strong> Earned over <b>18 Google Cloud Skill Badges</b></li>
+  </ul>
+</p>
 
-### 🌐 Connect with me:
-[<img align="left" alt="DeekshaG96 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="DeekshaG96 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+<h3 align="left">🤝 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/deeksha-g-cybersec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Deeksha G LinkedIn" height="30" width="40" /></a>
+<a href="https://github.com/DeekshaG96" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Deeksha G GitHub" height="30" width="40" /></a>
+</p>
 
-<br />
-<br />
-
-### 🛠 Languages and Tools:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<br />
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<br clear="both">
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeekshaG96&show_icons=true&theme=algolia&hide_border=true" alt="Deeksha's GitHub Stats" />
+<h3 align="left">💻 Technologies & Tools:</h3>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/> </a> 
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/> </a> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="50" height="50"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a>
 </p>
 
-[linkedin]: https://linkedin.com/in/deeksha-g-cybersec
-[github]: https://github.com/DeekshaG96
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeekshaG96&show_icons=true&theme=nord&hide_border=true&title_color=00f2fe" alt="Deeksha's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeekshaG96&theme=nord&hide_border=true&ring=00f2fe&fire=00f2fe" alt="Deeksha's GitHub Streak" width="48%" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeekshaG96&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true&title_color=00f2fe" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DeekshaG96&theme=nord&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophy" width="48%" />
+</p>
+
+<details>	
+ <summary><b>🏅 Honorable Badges & Certifications</b></summary><br>
+<div style='display:flex; flex-wrap: wrap; justify-content: center; gap: 15px;' align='center'>
+  <a href="https://www.credly.com/"><img src="https://images.credly.com/size/110x110/images/2784cb61-f120-4581-807d-9594ec4425dd/image.png" width="100px" height="100px" alt="AWS Certified"/></a>
+  <a href="#"><img src="https://images.credly.com/size/110x110/images/6df1bc1e-b78f-4ed4-b258-0051b80d0d86/google-cloud-certified-associate-cloud-engineer.png" width="100px" height="100px" alt="GCP Badge"/></a>
+  <a href="#"><img src="https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/CompTIA_Security_2Bce.png" width="100px" height="100px" alt="Security+ Badge"/></a>
+</div>
+</details>
+
+<br />
+
+<div align="center">
+  <h3>Thanks for visiting! 😊 Let's build something secure and intelligent together.</h3>
+</div>
