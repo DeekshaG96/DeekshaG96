@@ -1,91 +1,127 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0072ff&height=250&section=header&text=Deeksha%20G&fontSize=80&fontColor=ffffff&desc=AI%20%26%20Cybersecurity%20Developer&descSize=25&descColor=ffffff" width="100%" alt="Header Banner" />
+  <!-- Placeholder for your sleek typing-effect tech GIF -->
+  <!-- Once you add the file to the assets folder, this will display! -->
+  <img src="./assets/banner.gif" width="100%" alt="Hi, I'm Deeksha - Cyber-Noir Header Banner" />
 </div>
 
 <h1 align="center">Hi there 👋, I'm Deeksha</h1>
-<h3 align="center">A dedicated Computer Science student specializing in AI, Cloud Computing, and Cybersecurity.</h3>
+<h3 align="center">Security-Conscious AI Innovator</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeekshaG96&label=Profile%20Views&color=0072ff&style=flat-square" alt="DeekshaG96 Views" />
+  <img src="https://komarev.com/ghpvc/?username=DeekshaG96&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="DeekshaG96 Views" />
 </div>
 
 <br/>
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <h3>🚀 About Me</h3>
-      <ul>
-        <li>🧑‍🎓 <strong>Education:</strong> 6th-semester Computer Science and Business Systems engineering student at SIT.</li>
-        <li>🌱 <strong>Currently learning:</strong> Deep Learning, Network Security, and Cloud Architecture.</li>
-        <li>💼 <strong>Focus:</strong> Developing secure, AI-driven solutions (e.g., Sustainable Agriculture, Smart Supply Chains).</li>
-        <li>💬 <strong>Interests:</strong> Data Science, Machine Learning, Web Development, and Cybersecurity Operations.</li>
-        <li>📫 <strong>Contact:</strong> <a href="mailto:dg575265@gmail.com">dg575265@gmail.com</a></li>
-        <li>🏆 <strong>Achievements:</strong> Earned over <b>18 Google Cloud Skill Badges</b> in data engineering and generative AI.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/49a7a9144402633.628dc5a0eeba4.gif" width="80%" alt="Coding Animation" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  I am a 6th-semester Computer Science and Business Systems engineering student at SIT. I specialize in blending the innovation of <b>Machine Learning</b> with the strict vigilance of <b>Cybersecurity</b>. I have earned over <b>18 Google Cloud Skill Badges</b> and continuously push the boundaries of secure, cloud-native intelligence.
+</p>
 
 <br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+<br/>
 
-### 🛠️ Languages and Front-End
+### 💻 Glowing Skills Grid
 
-<p align="left"> 
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
-
-### ☁️ Cloud & Data Technologies
-
-<p align="left"> 
+<p align="center">
   <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI" />
-  <img src="https://img.shields.io/badge/SciKit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
-### 🔒 Cybersecurity Fundamentals
+<br/>
 
+### 🛡️ Secure Terminal (Cybersecurity Focus)
+
+```bash
+deeksha@kali:~$ whoami
+Deeksha G
+
+deeksha@kali:~$ cat credentials.txt
+> CompTIA Security+ Certified
+> Advanced Network Security Operations
+> Zero-Knowledge Protocol Architect
+
+deeksha@kali:~$ ls toolset/
+kali-linux/    wireshark/    metasploit/    nmap/
+```
 <p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
 </p>
 
----
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+<br/>
 
-### 📊 GitHub Analytics
+### 🚀 Innovation Showcases
 
+#### 🌍 Eco-Track AI (Google Solution Challenge 2026)
+> Focusing on AI analyzing environmental data in real-time.
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <!-- Placeholder for Eco-Track AI GIF -->
+      <!-- Add eco-track.gif into your /assets/ folder! -->
+      <img src="./assets/eco-track.gif" alt="Eco Track AI Data Stream" width="100%" /> 
+    </td>
+    <td width="50%">
+      <b>Tech Stack:</b> React, Gemini AI, GCP<br />
+      <b>Core Mechanic:</b> Split-screen real-time analytical inference comparing user inputs directly to historical ecological baseline metrics.<br />
+      <b>Aesthetic Focus:</b> Clean, smart, minimalistic contrast.
+    </td>
+  </tr>
+</table>
+
+#### 🔐 Soul Journal
+> Encrypted thoughts met with AI empathy.
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <!-- Placeholder for Soul Journal GIF -->
+      <!-- Add soul-journal.gif into your /assets/ folder! -->
+      <img src="./assets/soul-journal.gif" alt="Soul Journal Biometric Unlock" width="100%" /> 
+    </td>
+    <td width="50%">
+      <b>Tech Stack:</b> Flutter, Firebase, Secure Storage<br />
+      <b>Security Focus:</b> AES-256 local database encryption.<br />
+      <b>Core Mechanic:</b> Focuses on the "Soul" (AI mood analytics) and the "Secure" (Encrypted data) aspect.<br />
+      <b>Aesthetic Focus:</b> Immersive Dark Mode, Cyber-noir aesthetics.
+    </td>
+  </tr>
+</table>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+<br/>
+
+### 📊 Deep-Level Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeekshaG96&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Deeksha's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeekshaG96&theme=radical&hide_border=true" alt="Deeksha's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeekshaG96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Deeksha's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeekshaG96&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeekshaG96&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%" />
-</p>
+<br/>
 
-<br />
-
-### 🤝 Connect with Me
-
+### 📡 Initiate Handshake
 <div align="center">
   <a href="https://linkedin.com/in/deeksha-g-cybersec">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:dg575265@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
+</div>
+
+<div align="center">
+  <h4>Let's build something secure and intelligent together.</h4>
 </div>
