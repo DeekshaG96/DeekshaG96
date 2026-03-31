@@ -1,4 +1,4 @@
-![MasterHead](https://www.shutterstock.com/image-vector/asian-girl-programmer-cat-ears-600nw-2278953307.jpg)
+![MasterHead](https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=2070)
 
 <h1 align="center">Hi there 👋, I'm Deeksha G.</h1>
 <h3 align="center">Passionate about AI, ML, and Cybersecurity.</h3>
