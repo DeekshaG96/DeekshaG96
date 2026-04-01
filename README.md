@@ -66,8 +66,8 @@
 
 <br/>
 
-### 📊 `System_Telemetry`
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeekshaG96&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="195" alt="GitHub Stats" />
-  <img src="
+  <p style="color: #8b949e; font-size: 14px;">
+    <i>"Simplicity is the prerequisite for reliability." — Edsger W. Dijkstra</i>
+  </p>
+</div>
