@@ -2,74 +2,72 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:16213e&height=250&section=header&text=Hi,%20I'm%20Deeksha!&fontSize=65&fontAlignY=40&animation=twinkling&fontColor=7dcfff&desc=AI%20Developer%20|%20Cybersecurity%20Enthusiast&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 
-<br/>
-
-<img src="https://media.giphy.com/media/LrmU6jXIjwziE/giphy.gif" width="350" alt="Lofi Cyberpunk Anime Coding" style="border-radius: 15px;"/>
-
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7DCFFF&center=true&vCenter=true&width=600&lines=Engineering+Eco-Track+AI;Mastering+Machine+Learning;Exploring+Cloud+Architecture+(GCP);Advancing+Cyber+Defense;Developing+Secure+Systems)](https://git.io/typing-svg)
+<a href="https://linkedin.com/in/deeksha-g" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:dg575265@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://github.com/DeekshaG96">
+  <img src="https://komarev.com/ghpvc/?username=DeekshaG96&label=Profile%20views&color=7dcfff&style=for-the-badge" alt="DeekshaG96 Views" />
+</a>
 
-<br/>
-
----
-
-### 💻 `~/whoami`
-
-<div align="left" style="background-color: #1a1b26; padding: 15px; border-radius: 8px; font-family: 'Fira Code', monospace; color: #c0caf5; display: inline-block; min-width: 600px;">
-<code>
-<span style="color: #9ece6a;">visitor@deekshag</span>:<span style="color: #7dcfff;">~</span>$ cat profile.txt<br/>
-> Status: 6th-semester Computer Science and Business Systems (CSBS) student at SIT.<br/>
-> Focus: Artificial Intelligence, Machine Learning, Cybersecurity, & Cloud Infrastructure.<br/>
-> Current Mission: Developing <b>Eco-Track AI</b> for the Google Solution Challenge 2026.<br/>
-> Passions: Breaking things in Kali Linux, building them back with GenAI.<br/>
-<br/>
-<span style="color: #9ece6a;">visitor@deekshag</span>:<span style="color: #7dcfff;">~</span>$ ls ./projects<br/>
-> 🌍 Eco-Track AI (Smart Supply Chains)<br/>
-> 🔒 Soul Journal (Secure Logging)<br/>
-> 🚀 Techspire (Scalable Community App)<br/>
-</code>
 </div>
 
 <br/>
 
----
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" />
 
-### ⚡ `Technical_Arsenal`
+### 👩‍💻 `~/whoami`
 
-**[ Languages ]**<br/>
-![Python](https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=7dcfff)
-![C++](https://img.shields.io/badge/C++-1a1b26?style=for-the-badge&logo=c%2B%2B&logoColor=7dcfff)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=7dcfff)
+- 🎓 **Occupation:** 6th-sem Engineering Student at SIT
+- 🧠 **Focus:** Artificial Intelligence, Machine Learning, & Cybersecurity
+- 🌱 **Learning:** Deep Learning & Cloud Architecture
+- 💬 **Interests:** Data Science, ML, Cybersecurity Operations, Gen AI
+- 🏆 **Milestones:** Earned 18+ Google Cloud Skill Badges!
 
-**[ AI & Data Science ]**<br/>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1b26?style=for-the-badge&logo=tensorflow&logoColor=bb9af7)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-1a1b26?style=for-the-badge&logo=kalilinux&logoColor=bb9af7)
-![NLP](https://img.shields.io/badge/NLP-1a1b26?style=for-the-badge&logo=openai&logoColor=bb9af7)
+<br/><br/>
+
+### 🛠️ `Technical_Arsenal`
+
+**[ Core ]**<br/>
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=7dcfff" alt="python"/></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-1a1b26?style=for-the-badge&logo=cplusplus&logoColor=7dcfff" alt="cplusplus"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=7dcfff" alt="javascript"/></a>
+
+**[ AI & ML ]**<br/>
+<a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-1a1b26?style=for-the-badge&logo=tensorflow&logoColor=bb9af7" alt="tensorflow"/></a>
 
 **[ Cloud & Security ]**<br/>
-![GCP](https://img.shields.io/badge/Google_Cloud-1a1b26?style=for-the-badge&logo=google-cloud&logoColor=9ece6a)
-![AWS](https://img.shields.io/badge/AWS-1a1b26?style=for-the-badge&logo=amazon-aws&logoColor=9ece6a)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-1a1b26?style=for-the-badge&logo=kali-linux&logoColor=9ece6a)
-![Firebase](https://img.shields.io/badge/Firebase-1a1b26?style=for-the-badge&logo=firebase&logoColor=9ece6a)
+<a href="https://cloud.google.com" target="_blank"><img src="https://img.shields.io/badge/GCP-1a1b26?style=for-the-badge&logo=googlecloud&logoColor=9ece6a" alt="gcp"/></a>
+<a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-1a1b26?style=for-the-badge&logo=kalilinux&logoColor=9ece6a" alt="kali"/></a>
+<a href="https://firebase.google.com" target="_blank"><img src="https://img.shields.io/badge/Firebase-1a1b26?style=for-the-badge&logo=firebase&logoColor=9ece6a" alt="firebase"/></a>
 
-**[ Frameworks & Tools ]**<br/>
-![React](https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=7dcfff)
-![Flutter](https://img.shields.io/badge/Flutter-1a1b26?style=for-the-badge&logo=flutter&logoColor=7dcfff)
+**[ Web & Mobile ]**<br/>
+<a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-1a1b26?style=for-the-badge&logo=flutter&logoColor=7dcfff" alt="flutter"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=7dcfff" alt="react"/></a>
 
 <br/>
 
----
+### ☁️ `Certifications`
+
+<details>  
+  <summary><b style="font-size: 1.2em; cursor: pointer;">View Google Cloud Certifications</b></summary>
+  <br/>
+  <p>Successfully earned <b>18+ Google Cloud Skill Badges</b> across data engineering and generative AI platforms.</p>
+  <div align="left">
+    <a href="https://www.credly.com/users/deeksha-g.c3996cb6" target="_blank">
+      <img src="https://images.credly.com/size/110x110/images/6df1bc1e-b78f-4ed4-b258-0051b80d0d86/google-cloud-certified-associate-cloud-engineer.png" width="100" alt="GCP Associate Cloud Engineer" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.5); transition: transform 0.2s;"/>
+    </a>
+  </div>
+</details>
+
+<br/>
 
 ### 📊 `System_Telemetry`
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeekshaG96&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeekshaG96&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="195" alt="Top Languages" />
-</div>
-
-<br/><br/>
-
-> *"Building the infrastructure of tomorrow, securing the systems of today."* 🛡️
-
-</div>
+  <img src="
