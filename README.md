@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Dynamic Wavy Neon Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=220&section=header&text=Deeksha%20G&fontSize=62&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%20%26%20Cloud%20Architect%20%7C%200-to-1%20Product%20Builder&descSize=19&descAlignY=60&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <!-- Dynamic Wavy Neon Gradient Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=220&section=header&text=Deeksha%20G&fontSize=62&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20AI%20%26%20Cloud%20Architect%20%E2%80%A2%200%E2%86%921%20Builder&descSize=18&descAlignY=60&fontColor=ffffff" width="100%" alt="Deeksha G Header" />
 
-  <!-- Animated Typing Tagline -->
+  <!-- Multi-line Typing Animation -->
   <a href="https://github.com/DeekshaG96">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=85&lines=%F0%9F%9A%80+Engineering+0-to-1+AI-native+platforms+%26+cloud+systems;%F0%9F%8C%90+Open+Source+Contributor+%40+GirlScript+Summer+of+Code+(GSSoC);%F0%9F%A7%A0+Computer+Science+%26+Business+Systems+%40+SIT+Mangaluru;%F0%9F%92%BC+Ex-Intern+%40+Microsoft+%26+SAP+(AI)+%7C+AWS+Academy+(Cloud)+%7C+Fortinet" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=750&height=90&lines=%F0%9F%9A%80+Engineering+0-to-1+AI-native+platforms+%26+cloud+systems;%F0%9F%8C%90+Open+Source+Contributor+%40+GirlScript+Summer+of+Code+(GSSoC);%F0%9F%A7%A0+Computer+Science+%26+Business+Systems+%40+SIT+Mangaluru+(2027);%F0%9F%92%BC+Ex-Intern+%40+Microsoft+%26+SAP+(AI)+%7C+AWS+Academy+(Cloud)+%7C+Fortinet" alt="Typing SVG" />
   </a>
 
   <br>
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/BATCH-2027-blue?style=for-the-badge&logo=buffer&logoColor=white&color=6366F1" alt="Batch" />
   </p>
 
-  <!-- Social Connect Badges -->
+  <!-- Interactive Social Badges -->
   <p align="center">
     <a href="https://linkedin.com/in/deeksha-g-cybersec" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -33,11 +33,22 @@
     </a>
   </p>
 
+  <!-- Navigation Bar -->
+  <p align="center">
+    <a href="#-about-me"><b>About Me</b></a> •
+    <a href="#-tech-stack--tools"><b>Tech Stack</b></a> •
+    <a href="#-flagship-0-to-1-projects"><b>Flagship Projects</b></a> •
+    <a href="#-industry-experience"><b>Experience</b></a> •
+    <a href="#-verified-certifications"><b>Certifications</b></a> •
+    <a href="#-github-analytics"><b>Analytics</b></a> •
+    <a href="#-get-in-touch"><b>Connect</b></a>
+  </p>
+
 </div>
 
 ---
 
-### ⚡ Developer Terminal
+### 👩‍💻 About Me
 
 ```json
 {
