@@ -91,21 +91,27 @@ AI-assisted logistics solution using telemetry and Gemini AI.
 `NPTEL Cryptography and Network Security`
 
 ---
-
-## GitHub Overview
-
 ## GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DeekshaG96&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub statistics" />
+<a href="https://github.com/DeekshaG96?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+</a>
+<a href="https://github.com/DeekshaG96?tab=stars">
+  <img src="https://img.shields.io/badge/View%20Starred%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View starred projects" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeekshaG96&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top languages" />
+<br /><br />
+
+<a href="https://github.com/DeekshaG96">
+  <img src="https://img.shields.io/github/followers/DeekshaG96?style=for-the-badge&label=Followers&color=0F766E" alt="GitHub followers" />
+</a>
+<a href="https://github.com/DeekshaG96">
+  <img src="https://img.shields.io/github/stars/DeekshaG96?style=for-the-badge&label=Total%20Stars&color=CA8A04" alt="GitHub stars" />
+</a>
 
 </div>
-
----
-
 <div align="center">
 
 ### Open to internships, collaborations, and entry-level opportunities
