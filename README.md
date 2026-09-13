@@ -1,16 +1,17 @@
 <div align="center">
 
-  <!-- Compact Dynamic Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=180&section=header&text=Deeksha%20G&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20%26%20Cloud%20Architect&descSize=18&descAlignY=64&fontColor=ffffff" width="100%" alt="Header" />
+  # 💫 Hi there, I'm Deeksha G! 👋
+  
+  ### 🚀 Software Engineer • AI & Cloud Architect • 0→1 Product Builder
 
   <!-- Animated Typing Tagline -->
   <a href="https://github.com/DeekshaG96">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%9A%80+Engineering+0-to-1+AI-native+platforms;%F0%9F%8C%90+Open+Source+Contributor+%40+GirlScript+Summer+of+Code+(GSSoC);%F0%9F%A7%A0+Computer+Science+%26+Business+Systems+%40+SIT+(2027);%F0%9F%92%BC+Ex-Intern+%40+Microsoft+%26+SAP+(AI)+%7C+AWS+Academy+%7C+Fortinet" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=%E2%9C%A8+Engineering+0-to-1+AI-native+platforms;%F0%9F%8C%90+Open+Source+Contributor+%40+GirlScript+Summer+of+Code+(GSSoC);%F0%9F%A7%A0+Computer+Science+%26+Business+Systems+%40+SIT+(2027);%F0%9F%92%BC+Ex-Intern+%40+Microsoft+%26+SAP+(AI)+%7C+AWS+Academy+%7C+Fortinet" alt="Typing SVG" />
   </a>
 
-  <br>
+  <br><br>
 
-  <!-- Connect Links -->
+  <!-- Connect Links & Status -->
   <p align="center">
     <a href="https://linkedin.com/in/deeksha-g-cybersec" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -23,6 +24,10 @@
     <a href="mailto:deekshagpbangera@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    &nbsp;
+    <a href="https://github.com/DeekshaG96">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
   </p>
 
 </div>
@@ -31,7 +36,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 **Undergraduate:** B.E. in **Computer Science & Business Systems** at **Srinivas Institute of Technology (SIT), Mangaluru** (Expected June 2027) | **CGPA: 7.8 / 10.0**.
+- 🎓 **Undergraduate:** Pursuing B.E. in **Computer Science & Business Systems** at **Srinivas Institute of Technology (SIT), Mangaluru** (Expected June 2027) | **CGPA: 7.8 / 10.0**.
 - 💼 **Experience:**
   - 🌐 Open Source Contributor @ **GirlScript Summer of Code (GSSoC)** (May 2026 – Present).
   - 🤖 AI & Data Intern @ **Microsoft & SAP** (94% accuracy on ML models across 10k+ records).
@@ -70,5 +75,5 @@
 ---
 
 <div align="center">
-  <sub>Crafted with passion & precision by <strong>Deeksha G</strong> • Connect on <a href="https://linkedin.com/in/deeksha-g-cybersec">LinkedIn</a> or explore my <a href="https://iitsmedeeksha.netlify.app">Portfolio</a>.</sub>
+  <sub>Designed & built with 💻 by <strong>Deeksha G</strong> • Connect on <a href="https://linkedin.com/in/deeksha-g-cybersec">LinkedIn</a> or explore my <a href="https://iitsmedeeksha.netlify.app">Portfolio</a>.</sub>
 </div>
