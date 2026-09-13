@@ -94,9 +94,12 @@ AI-assisted logistics solution using telemetry and Gemini AI.
 
 ## GitHub Overview
 
+## GitHub Overview
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DeekshaG96&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=DeekshaG96&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub statistics" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeekshaG96&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top languages" />
 
 </div>
