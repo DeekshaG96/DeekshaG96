@@ -121,3 +121,9 @@ AI-assisted logistics solution using telemetry and Gemini AI.
 <a href="mailto:deekshagpbangera@gmail.com">Contact Me</a>
 
 </div>
+<div align="center">
+  <p style="color: #8b949e; font-size: 14px;">
+    <i>"Simplicity is the prerequisite for reliability." — Edsger W. Dijkstra</i>
+  </p>
+</div>
+
